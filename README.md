@@ -1,4 +1,4 @@
-# Název mého projektu, programu, hry...
+# City Sprint
 
 ## Téma
 
@@ -6,11 +6,11 @@ City Sprint je rychlá strategická hra pro jednoho hráče, zaměřená na budo
 
 Základní Mechaniky:
 
-Časový Limit: Hráč má omezený čas na dosažení co nejlepšího skóre. Čas může být prodloužen dosažením určitých cílů.
-Správa Zdrojů: Zdroje jako jsou voda, jídlo, a energie jsou klíčové pro přežití města. Je nutné je správně distribuovat.
-Stavba a Rozvoj: Hráč musí budovat a vylepšovat budovy jako domy, nemocnice, školy a infrastrukturu (cesty, veřejnou dopravu).
-Populace: Obyvatelstvo města se časem zvyšuje. Je třeba zajišťovat jejich potřeby a spokojenost.
-Náhodné Události: Hráč čelí náhodným událostem, jako jsou přírodní katastrofy, epidemie, nebo ekonomické krize, které ovlivňují chod města.
+- Časový Limit: Hráč má omezený čas na dosažení co nejlepšího skóre. Čas může být prodloužen dosažením určitých cílů.
+- Správa Zdrojů: Zdroje jako jsou voda, jídlo, a energie jsou klíčové pro přežití města. Je nutné je správně distribuovat.
+- Stavba a Rozvoj: Hráč musí budovat a vylepšovat budovy jako domy, nemocnice, školy a infrastrukturu (cesty, veřejnou dopravu).
+- Populace: Obyvatelstvo města se časem zvyšuje. Je třeba zajišťovat jejich potřeby a spokojenost.
+- Náhodné Události: Hráč čelí náhodným událostem, jako jsou přírodní katastrofy, epidemie, nebo ekonomické krize, které ovlivňují chod města.
 
 ## Odkazy pro vývoj
 
