@@ -15,9 +15,7 @@ Základní Mechaniky:
 ## Odkazy pro vývoj
 
 Zde budou živé linky na:
-- figma návrh stránek aplikace
-- odkaz na gh-pages projektu
-- odkaz do repozitáře projektu, pokud pracuji v teamu a zde vývoj neprobíhá
+https://www.figma.com/file/05MurFodwVQCbS7iW12B7Z/Untitled?type=design&node-id=0%3A1&mode=design&t=LjdZS9kZygTkkAZP-1
 
 ### Z čeho čerpat
 
