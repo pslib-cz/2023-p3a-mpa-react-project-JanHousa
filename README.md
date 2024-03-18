@@ -1,21 +1,21 @@
-# City Sprint
+# Age of War
 
 ## Téma
-
-City Sprint je rychlá strategická hra pro jednoho hráče, zaměřená na budování a správu města v omezeném časovém rámci. Hráč musí efektivně spravovat zdroje, rozvíjet infrastrukturu a zajišťovat potřeby obyvatelstva, aby udržel své město šťastné a prosperující. Hra končí, pokud populace města je nespokojená, svrhne vládu, nebo pokud obyvatelé umírají na hlad nebo nemoci.
+- Remake známé flashovky Age of War
+- Vylepšené mechaniky
+- Moderní grafika
+- Responzivita pro mobilní zařízení
 
 Základní Mechaniky:
+- Hráč vs AI
+- Posílání vojáků na druhou stranu
+- Sbírání skóre
+- Vylepšování hlavní budovy
 
-- Časový Limit: Hráč má omezený čas na dosažení co nejlepšího skóre. Čas může být prodloužen dosažením určitých cílů.
-- Správa Zdrojů: Zdroje jako jsou voda, jídlo, a energie jsou klíčové pro přežití města. Je nutné je správně distribuovat.
-- Stavba a Rozvoj: Hráč musí budovat a vylepšovat budovy jako domy, nemocnice, školy a infrastrukturu (cesty, veřejnou dopravu).
-- Populace: Obyvatelstvo města se časem zvyšuje. Je třeba zajišťovat jejich potřeby a spokojenost.
-- Náhodné Události: Hráč čelí náhodným událostem, jako jsou přírodní katastrofy, epidemie, nebo ekonomické krize, které ovlivňují chod města.
 
 ## Odkazy pro vývoj
 
-Zde budou živé linky na:
-https://www.figma.com/file/05MurFodwVQCbS7iW12B7Z/Untitled?type=design&node-id=0%3A1&mode=design&t=LjdZS9kZygTkkAZP-1
+
 
 ### Z čeho čerpat
 
